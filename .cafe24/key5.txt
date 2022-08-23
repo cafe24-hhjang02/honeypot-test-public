@@ -1,4 +1,4 @@
-ms-gitlab-service-001.hanpda.com
+service-001
 111
 AKIAZEHH7M3HFPIQJRLB
 HUwT1CCm/HYvUkwFeImQ37aolSffMAOhXPB7hptn
